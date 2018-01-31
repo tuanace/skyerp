@@ -3059,8 +3059,8 @@ msgstr "Dupliquer le message"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "e.x. https://www.odoo.com"
+msgid "e.g. https://www.skyerp.net"
+msgstr "e.x. https://www.skyerp.net"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq

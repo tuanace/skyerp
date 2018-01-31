@@ -280,8 +280,8 @@ msgstr "Bijv. Zoekmachines, Website pagina, .."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/page/contactus"
-msgstr "Bijv. https://www.odoo.com/page/contactus"
+msgid "e.g. https://www.skyerp.net/page/contactus"
+msgstr "Bijv. https://www.skyerp.net/page/contactus"
 
 #. module: website_links
 #. openerp-web

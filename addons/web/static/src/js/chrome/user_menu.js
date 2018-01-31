@@ -74,7 +74,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuDocumentation: function () {
-        window.open('https://www.odoo.com/documentation/user', '_blank');
+        window.open('https://www.skyerp.net/documentation/user', '_blank');
     },
     /**
      * @private
@@ -109,7 +109,7 @@ var UserMenu = Widget.extend({
      * @private
      */
     _onMenuSupport: function () {
-        window.open('https://www.odoo.com/buy', '_blank');
+        window.open('https://www.skyerp.net/buy', '_blank');
     },
 });
 

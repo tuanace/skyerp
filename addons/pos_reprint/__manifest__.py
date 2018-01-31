@@ -21,5 +21,5 @@ Allow cashier to reprint receipts
         'static/src/xml/reprint.xml',
     ],
     'installable': True,
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.skyerp.net/page/point-of-sale',
 }

@@ -375,7 +375,7 @@ var PlannerDialog = Dialog.extend({
                         args: [[["share", "=", false]]],
                     })
                     .then(function (data) {
-                        window.location = "https://www.odoo.com/odoo-enterprise/upgrade?utm_medium=community_upgrade&num_users=" + data;
+                        window.location = "https://www.skyerp.net/odoo-enterprise/upgrade?utm_medium=community_upgrade&num_users=" + data;
                     });
             },
         }, {

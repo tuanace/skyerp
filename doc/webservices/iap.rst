@@ -594,4 +594,4 @@ Charging
             ]).unlink()
 
 .. _JSON-RPC2: http://www.jsonrpc.org/specification
-.. _Odoo App: https://www.odoo.com/apps
+.. _Odoo App: https://www.skyerp.net/apps

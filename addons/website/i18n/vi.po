@@ -133,7 +133,7 @@ msgstr ", cập nhật:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid "- The Odoo Team"
-msgstr "- The Odoo ERPOnline Team"
+msgstr "- The SkyERP Team"
 
 #. module: website
 #. openerp-web
@@ -4557,7 +4557,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://www.youtube.com/user/OpenERPonline"
+msgid "https://www.youtube.com/user/SkyERP"
 msgstr ""
 
 #. module: website

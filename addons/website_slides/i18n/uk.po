@@ -547,14 +547,14 @@ msgstr ""
 msgid ""
 "Discover how you can integrate MRP, PLM, Quality and Maintenance in a single application to maximize the efficiency of your manufacturing operations.\n"
 "\n"
-"Read more about the features at: https://www.odoo.com/page/manufacturing-features\n"
+"Read more about the features at: https://www.skyerp.net/page/manufacturing-features\n"
 "\n"
-"Discover Odoo MRP: https://www.odoo.com/page/manufacturing"
+"Discover Odoo MRP: https://www.skyerp.net/page/manufacturing"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_1
-msgid "Discover the CRM sales people love https://www.odoo.com/page/crm"
+msgid "Discover the CRM sales people love https://www.skyerp.net/page/crm"
 msgstr ""
 
 #. module: website_slides
@@ -830,7 +830,7 @@ msgstr "Найсвіжіша публікація"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_8
-msgid "Learn more at https://www.odoo.com/page/sales"
+msgid "Learn more at https://www.skyerp.net/page/sales"
 msgstr ""
 
 #. module: website_slides
@@ -1216,11 +1216,11 @@ msgstr "Вибачте але нічого не знайдено по вашом
 msgid ""
 "Stop doing manual printing and scanning. Move to electronic signature with Odoo Sign!\n"
 "\n"
-"Discover more at https://www.odoo.com/page/sign"
+"Discover more at https://www.skyerp.net/page/sign"
 msgstr ""
 "Припиніть ручне друкування та сканування. Перейдіть до електронного підпису з Підписом Odoo!\n"
 "\n"
-"Більше на https://www.odoo.com/page/sign"
+"Більше на https://www.skyerp.net/page/sign"
 
 #. module: website_slides
 #: model:ir.ui.view,arch_db:website_slides.view_slide_tag_form
@@ -1420,7 +1420,7 @@ msgstr "Очікує на підтвердження"
 msgid ""
 "Warehouse management software for the 21st century.\n"
 "\n"
-"Discover Odoo Inventory: https://www.odoo.com/page/warehouse"
+"Discover Odoo Inventory: https://www.skyerp.net/page/warehouse"
 msgstr ""
 
 #. module: website_slides

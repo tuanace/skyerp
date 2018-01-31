@@ -3099,8 +3099,8 @@ msgstr "dupliceer bericht"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "bijvoorbeeld https://www.odoo.com"
+msgid "e.g. https://www.skyerp.net"
+msgstr "bijvoorbeeld https://www.skyerp.net"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq

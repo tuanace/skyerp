@@ -823,7 +823,7 @@ These models have a single field ``name`` (i.e. they are simply there to
 distinguish campaigns but don't have any specific behaviour).
 
 Once a customer visits your website with these parameters set in the url
-(i.e. http://www.odoo.com/?campaign_id=mixin_talk&source_id=www.odoo.com&medium_id=website),
+(i.e. http://www.skyerp.net/?campaign_id=mixin_talk&source_id=www.skyerp.net&medium_id=website),
 three cookies are set in the visitor's website for these parameters.
 Once a object that inherits the utm.mixin is created from the website (i.e. lead
 form, job application, etc.), the utm.mixin code kicks in and fetches the values

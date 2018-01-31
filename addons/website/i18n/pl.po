@@ -4574,8 +4574,8 @@ msgstr "https://www.linkedin.com/company/odoo"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://www.youtube.com/user/OpenERPonline"
-msgstr "https://www.youtube.com/user/OpenERPonline"
+msgid "https://www.youtube.com/user/SkyERP"
+msgstr "https://www.youtube.com/user/SkyERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form

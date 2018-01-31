@@ -38,13 +38,13 @@ index_template = """
         <p>
         The PosBox is a hardware adapter that allows you to use
         receipt printers and barcode scanners with Odoo's Point of
-        Sale, <b>version 8.0 or later</b>. You can start an <a href='https://www.odoo.com/start'>online free trial</a>,
-        or <a href='https://www.odoo.com/page/download'>download and install</a> it yourself.
+        Sale, <b>version 8.0 or later</b>. You can start an <a href='https://www.skyerp.net/start'>online free trial</a>,
+        or <a href='https://www.skyerp.net/page/download'>download and install</a> it yourself.
         </p>
         <p>
         For more information on how to setup the Point of Sale with
         the PosBox, please refer to
-        <a href='https://www.odoo.com/documentation/user/point_of_sale/posbox/index.html'>the manual</a>.
+        <a href='https://www.skyerp.net/documentation/user/point_of_sale/posbox/index.html'>the manual</a>.
         </p>
         <p>
         To see the status of the connected hardware, please refer 
@@ -62,7 +62,7 @@ index_template = """
         the posbox version number is independent from Odoo. You can upgrade
         the software on the <a href='/hw_proxy/upgrade/'>upgrade page</a>.
         </p>
-        <p>For any other question, please contact the Odoo support at <a href='http://www.odoo.com/help'>www.odoo.com/help</a>
+        <p>For any other question, please contact the Odoo support at <a href='http://www.skyerp.net/help'>www.skyerp.net/help</a>
         </p>
     </body>
 </html>

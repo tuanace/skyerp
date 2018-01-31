@@ -592,7 +592,7 @@ offcial Odoo `docker image <https://registry.hub.docker.com/_/odoo/>`_ page.
 
 .. _demo: https://demo.odoo.com
 .. _docker: https://www.docker.com
-.. _Download: https://www.odoo.com/page/download
+.. _Download: https://www.skyerp.net/page/download
 .. _Debian Stretch: https://www.debian.org/releases/stretch/
 .. _Ubuntu Xenial: http://releases.ubuntu.com/16.04/
 .. _Ubuntu Zesty: http://releases.ubuntu.com/17.04/
@@ -605,7 +605,7 @@ offcial Odoo `docker image <https://registry.hub.docker.com/_/odoo/>`_ page.
 .. _PostgreSQL for windows:
     http://www.enterprisedb.com/products-services-training/pgdownload
 .. _Quilt: http://en.wikipedia.org/wiki/Quilt_(software)
-.. _saas: https://www.odoo.com/page/start
+.. _saas: https://www.skyerp.net/page/start
 .. _the wkhtmltopdf download page: https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.1
 .. _UAC: http://en.wikipedia.org/wiki/User_Account_Control
 .. _wkhtmltopdf: http://wkhtmltopdf.org
@@ -618,6 +618,6 @@ offcial Odoo `docker image <https://registry.hub.docker.com/_/odoo/>`_ page.
 .. _pywin32: http://sourceforge.net/projects/pywin32/files/pywin32/
 .. _the repository: https://github.com/odoo/odoo
 .. _git: http://git-scm.com
-.. _Editions: https://www.odoo.com/pricing#pricing_table_features
+.. _Editions: https://www.skyerp.net/pricing#pricing_table_features
 .. _nightly: https://nightly.odoo.com/11.0/nightly/
 .. _extra: https://nightly.odoo.com/extra/

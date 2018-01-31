@@ -147,7 +147,7 @@ msgid ""
 "top:0pt;margin-bottom:8pt;\">\n"
 "                                <span>We would be delighted to assist you "
 "along the way. Contact us through our\n"
-"                                <a href=\"https://www.odoo.com/help"
+"                                <a href=\"https://skyerp.net/help"
 "\">support form</a> if you have any question.\n"
 "                                You can also discover how to get the best "
 "out of Odoo CRM with our </span>\n"
@@ -4572,7 +4572,7 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_case_form_view_leads
 #: model:ir.ui.view,arch_db:crm.crm_case_form_view_oppor
-msgid "e.g. www.odoo.com"
+msgid "e.g. www.skyerp.net"
 msgstr ""
 
 #. module: crm

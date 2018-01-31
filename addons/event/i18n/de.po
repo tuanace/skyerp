@@ -2048,8 +2048,8 @@ msgstr "http://bit.ly/VD8J67."
 
 #. module: event
 #: model:event.event,description:event.event_3
-msgid "https://www.odoo.com/services/technical-training"
-msgstr "https://www.odoo.com/services/technical-training"
+msgid "https://www.skyerp.net/services/technical-training"
+msgstr "https://www.skyerp.net/services/technical-training"
 
 #. module: event
 #: code:addons/event/models/event.py:497

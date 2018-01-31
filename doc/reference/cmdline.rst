@@ -158,7 +158,7 @@ database
 
     - ``%h`` is replaced by the whole hostname the request is made on.
     - ``%d`` is replaced by the subdomain the request is made on, with the
-      exception of ``www`` (so domain ``odoo.com`` and ``www.odoo.com`` both
+      exception of ``www`` (so domain ``odoo.com`` and ``www.skyerp.net`` both
       match the database ``odoo``).
 
       These operations are case sensitive. Add option ``(?i)`` to match all

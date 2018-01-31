@@ -4,7 +4,7 @@
     'name': 'Website Wishlist',
     'description': 'Let returning shoppers save products in a wishlist',
     'author': 'Odoo SA',
-    'website': 'https://www.odoo.com',
+    'website': 'https://www.skyerp.net',
     'category': 'Website',
     'version': '1.0',
     'depends': ['website_sale'],

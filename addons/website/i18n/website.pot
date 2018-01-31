@@ -4245,7 +4245,7 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://www.youtube.com/user/OpenERPonline"
+msgid "https://www.youtube.com/user/SkyERP"
 msgstr ""
 
 #. module: website

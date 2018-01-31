@@ -1987,7 +1987,7 @@ msgstr ""
 
 #. module: event
 #: model:event.event,description:event.event_3
-msgid "https://www.odoo.com/services/technical-training"
+msgid "https://www.skyerp.net/services/technical-training"
 msgstr ""
 
 #. module: event

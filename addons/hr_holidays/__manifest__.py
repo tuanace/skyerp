@@ -7,7 +7,7 @@
     'category': 'Human Resources',
     'sequence': 27,
     'summary': 'Leave allocations and leave requests',
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.skyerp.net/page/employees',
     'description': """
 Manage leave requests and allocations
 =====================================

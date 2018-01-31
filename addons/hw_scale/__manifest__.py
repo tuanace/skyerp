@@ -6,7 +6,7 @@
     'category': 'Point of Sale',
     'sequence': 6,
     'summary': 'Hardware Driver for Weighing Scales',
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.skyerp.net/page/point-of-sale',
     'description': """
 Weighing Scale Hardware Driver
 ================================
