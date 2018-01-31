@@ -269,7 +269,7 @@ var DashboardShare = Widget.extend({
         this.data = data;
         this.parent = parent;
         this.share_url = 'https://www.skyerp.net';
-        this.share_text = encodeURIComponent("I am using #Odoo - Awesome open source business apps.");
+        this.share_text = encodeURIComponent("I am using #SkyERP - Awesome open source business apps.");
     },
 
     share_twitter: function(){
