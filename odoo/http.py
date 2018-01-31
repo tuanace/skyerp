@@ -791,11 +791,11 @@ class HttpRequest(WebRequest):
                     _logger.warn("CSRF validation failed on path '%s'",
                                  request.httprequest.path)
                 else:
-                    _logger.warn("""No CSRF validation token provided for path '%s'
+                    _logger.warn("""gitNo CSRF validation token provided for path '%s'
 
 Odoo URLs are CSRF-protected by default (when accessed with unsafe
 HTTP methods). See
-https://www.skyerp.net/documentation/11.0/reference/http.html#csrf for
+https://www.odoo.com/documentation/11.0/reference/http.html#csrf for
 more details.
 
 * if this endpoint is accessed through Odoo via py-QWeb form, embed a CSRF

@@ -114,7 +114,7 @@ class BaseCase(TreeCase):
     initialized by subclasses.
     """
 
-    longMessage = True      # more verbose error message by default: https://www.skyerp.net/r/Vmh
+    longMessage = True      # more verbose error message by default: https://www.odoo.com/r/Vmh
 
     def cursor(self):
         return self.registry.cursor()
